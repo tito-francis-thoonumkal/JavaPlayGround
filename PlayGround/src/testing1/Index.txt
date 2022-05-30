@@ -1,0 +1,2 @@
+
+testing1	: class contain same override name of class from interface
