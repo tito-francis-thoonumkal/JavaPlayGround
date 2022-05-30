@@ -1,4 +1,4 @@
-package combinator.combinatorMobileNo;
+package combinatorMobileNo;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package combinator.product;
+package product;
 
 import java.util.List;
 import java.util.function.BiFunction;

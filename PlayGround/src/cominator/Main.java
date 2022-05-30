@@ -1,12 +1,12 @@
-package combinator.cominator;
+package cominator;
 
-import static combinator.cominator.CustomerRegistrationValidator.isAnAdult;
-import static combinator.cominator.CustomerRegistrationValidator.isEmailValid;
-import static combinator.cominator.CustomerRegistrationValidator.isPhoneNumberValid;
+import static cominator.CustomerRegistrationValidator.isAnAdult;
+import static cominator.CustomerRegistrationValidator.isEmailValid;
+import static cominator.CustomerRegistrationValidator.isPhoneNumberValid;
 
 import java.time.LocalDate;
 
-import combinator.cominator.CustomerRegistrationValidator.ValidationResult;
+import cominator.CustomerRegistrationValidator.ValidationResult;
 
 public class Main {
 

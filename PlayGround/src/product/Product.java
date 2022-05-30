@@ -1,4 +1,4 @@
-package combinator.product;
+package product;
 
 public class Product {
 

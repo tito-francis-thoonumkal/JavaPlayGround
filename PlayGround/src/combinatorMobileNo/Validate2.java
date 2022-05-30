@@ -1,4 +1,4 @@
-package combinator.combinatorMobileNo;
+package combinatorMobileNo;
 
 import java.util.List;
 import java.util.function.BiFunction;

@@ -1,7 +1,7 @@
-package combinator.combinatorMobileNo;
+package combinatorMobileNo;
 
 //import static combinatorMobileNo.MobileNoValidator.mobilenoValidor;
-import static combinator.combinatorMobileNo.Validate2.*;
+import static combinatorMobileNo.Validate2.*;
 
 
 import java.util.ArrayList;

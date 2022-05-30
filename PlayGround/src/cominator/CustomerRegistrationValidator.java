@@ -1,15 +1,15 @@
-package combinator.cominator;
+package cominator;
 
-import static combinator.cominator.CustomerRegistrationValidator.ValidationResult.EMAIL_NOT_VALID;
-import static combinator.cominator.CustomerRegistrationValidator.ValidationResult.IS_NOT_AN_ADULT;
-import static combinator.cominator.CustomerRegistrationValidator.ValidationResult.PHONE_NUMBER_NOT_VALID;
-import static combinator.cominator.CustomerRegistrationValidator.ValidationResult.SUCCESS;
+import static cominator.CustomerRegistrationValidator.ValidationResult.EMAIL_NOT_VALID;
+import static cominator.CustomerRegistrationValidator.ValidationResult.IS_NOT_AN_ADULT;
+import static cominator.CustomerRegistrationValidator.ValidationResult.PHONE_NUMBER_NOT_VALID;
+import static cominator.CustomerRegistrationValidator.ValidationResult.SUCCESS;
 
 import java.time.LocalDate;
 import java.time.Period;
 import java.util.function.Function;
 
-import combinator.cominator.CustomerRegistrationValidator.ValidationResult;
+import cominator.CustomerRegistrationValidator.ValidationResult;
 
 public interface CustomerRegistrationValidator extends Function<Customer, ValidationResult> {
 

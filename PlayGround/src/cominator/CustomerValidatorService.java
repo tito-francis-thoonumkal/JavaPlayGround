@@ -1,4 +1,4 @@
-package combinator.cominator;
+package cominator;
 
 import java.time.LocalDate;
 import java.time.Period;

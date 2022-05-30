@@ -1,8 +1,8 @@
-package combinator.product;
+package product;
 
 import java.util.ArrayList;
 import java.util.List;
-import static combinator.product.PriceValidateAndCalculate.isPriceNull;;
+import static product.PriceValidateAndCalculate.isPriceNull;;
 
 public class Main {
 

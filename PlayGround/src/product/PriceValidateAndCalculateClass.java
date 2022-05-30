@@ -1,11 +1,11 @@
-package combinator.product;
+package product;
 
-import static combinator.product.PriceValidateAndCalculate.calcDiscount;
-import static combinator.product.PriceValidateAndCalculate.calcNetPrice;
-import static combinator.product.PriceValidateAndCalculate.calcTax;
-import static combinator.product.PriceValidateAndCalculate.isPriceNull;
-import static combinator.product.PriceValidateAndCalculate.isTaxRateNull;
-import static combinator.product.PriceValidateAndCalculate.isDiscountRateNull;
+import static product.PriceValidateAndCalculate.calcDiscount;
+import static product.PriceValidateAndCalculate.calcNetPrice;
+import static product.PriceValidateAndCalculate.calcTax;
+import static product.PriceValidateAndCalculate.isPriceNull;
+import static product.PriceValidateAndCalculate.isTaxRateNull;
+import static product.PriceValidateAndCalculate.isDiscountRateNull;
 
 import java.util.List;
 import java.util.function.BiConsumer;
